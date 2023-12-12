@@ -1,0 +1,54 @@
+//Ans (1) // JavaScript has 8 Datatypes 
+1. String 
+2. Number 
+3.  Bigint
+4. Boolean 
+5. Undefined 
+6. Null 
+7. Symbol 
+8. Object
+ Ans (2)
+ Introduction to Javascript Engines...
+  JavaScript is a scripting
+  language and is not directly understood by computer but the browsers have
+  inbuilt JavaScript engine which help them to understand and interpret
+  JavaScript codes. These engines help to convert our JavaScript program
+  into computer-understandable language. A JavaScript engine is a computer
+  program that executes JavaScript code and converts it into computer
+  understandable language. List of JavaScript Engines:
+Google Chrome -V8,
+Edge (Internet Explorer)- Chakra,
+Mozilla Firefox- Spider Monkey,
+Safari-Javascript Core Webkit
+
+Ans (3)....
+The full form of ECMA is European Computer Manufacturer's Association. 
+ECMAScript is a Standard for scripting languages such as JavaScript, JScript, etc.
+ It is a trademark scripting language specification. 
+ JavaScript is a language based on ECMAScript.
+A standard for scripting languages like JavaScript, JScript is ECMAScript.
+JavaScript is considered as one of the most popular implementations of ECMAScript.
+
+ Ans (4)...
+
+  What is JavaScript ?...
+JavaScript is a lightweight,
+cross-platform, single-threaded, and interpreted compiled programming
+language. It is also known as the scripting language for webpages. It is
+well-known for the development of web pages, and many non-browser
+environments also use it. JavaScript is a weakly typed language
+(dynamically typed). JavaScript can be used for Client-side developments
+as well as Server-side developments.
+
+Ans (5) Histoy of JavaScript...
+Brendan Eich first developed JavaScript, a computer language,
+in about ten days in May 1995. The language, formerly known as Mocha,
+later modified to LiveScript, and is now known simply as JavaScript,
+was created to be used on the client-side of websites,
+enabling the addition of dynamic and interactive components to static HTML texts.
+
+Ans (6)DOM IN JS...
+The Document Object Model (DOM) is a programming interface for web documents.
+It represents the page so that programs can change the document structure, style,
+and content. The DOM represents the document as nodes and objects;
+that way, programming languages can interact with the page
